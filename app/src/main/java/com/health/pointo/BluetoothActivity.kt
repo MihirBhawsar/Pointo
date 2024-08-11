@@ -160,6 +160,7 @@ class BluetoothActivity : AppCompatActivity() {
                 Manifest.permission.BLUETOOTH,
                 Manifest.permission.BLUETOOTH_ADMIN,
                 Manifest.permission.ACCESS_FINE_LOCATION
+
             )
         }
     }
